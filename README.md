@@ -1,4 +1,4 @@
 Hospital-Quality
 ================
 
-Part of the codes are inspired by other GitHub contributors
+Note that part of the code are inspired by other GitHub contributors.
